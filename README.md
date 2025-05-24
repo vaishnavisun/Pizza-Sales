@@ -7,6 +7,7 @@ A visually engaging and data-driven Pizza Sales Report created using Power BI De
 2. Project Description
    
 This dashboard analyzes pizza sales data to uncover key trends and performance metrics. The dataset contains historical order details from a fictional pizza restaurant, and the report presents an intuitive view of:
+
 📈 Total Revenue
 🍕 Total Pizzas Sold
 👥 Total Orders
@@ -33,15 +34,15 @@ Excel (.xlsx) – Dataset format from Kaggle
 
 5. key questions
   
---> What is the Total Revenue of pizza Sales?
---> What is Average Order Value for sales of pizzas?
---> How many total Pizzas Sold?
---> How many Total Orders are taken everyday?
---> What is the average Pizzas Per Order sales?
---> what is the daily trend of sales for total orders and Monthly orders?
---> How many percent of pizza sales by pizza category and pizza size?
---> How many pizzas sold by pizza category?
---> Top 5 best pizza sales and worst pizza sales by pizza category,quantity,total orders and revenue?
+1. What is the Total Revenue of pizza Sales?
+2. What is Average Order Value for sales of pizzas?
+3. How many total Pizzas Sold?
+4. How many Total Orders are taken everyday?
+5. What is the average Pizzas Per Order sales?
+6. what is the daily trend of sales for total orders and Monthly orders?
+7. How many percent of pizza sales by pizza category and pizza size?
+8. How many pizzas sold by pizza category?
+9. Top 5 best pizza sales and worst pizza sales by pizza category,quantity,total orders and revenue?
 
 6. Screenshots / Demos
    
