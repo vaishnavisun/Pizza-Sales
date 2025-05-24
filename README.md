@@ -9,10 +9,15 @@ A visually engaging and data-driven Pizza Sales Report created using Power BI De
 This dashboard analyzes pizza sales data to uncover key trends and performance metrics. The dataset contains historical order details from a fictional pizza restaurant, and the report presents an intuitive view of:
 
 📈 Total Revenue
+
 🍕 Total Pizzas Sold
+
 👥 Total Orders
+
 💰 Average Order Value
+
 ⏰ Weekly Sales Trends
+
 🏆 Best & Worst Performing Pizzas
 
 3. Key Technologies
@@ -30,10 +35,15 @@ Excel (.xlsx) – Dataset format from Kaggle
 4. Features & Highlights
    
 🚀 Dynamic KPIs that adjust with slicer selection
+
 🧭 Time Series Visuals: Analyze sales by hour, day, and week
+
 🔍 Interactive Filters: Explore data by pizza type, category, and size
+
 📦 Top & Bottom Selling Products for quick performance snapshots
+
 🧮 DAX Calculations: Custom metrics like Average Revenue per Order, Sales per Pizza Size, and more
+
 📁 Optimized Data Model with minimized redundancy and improved efficiency
 
 5. key questions
