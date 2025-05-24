@@ -15,12 +15,16 @@ This dashboard analyzes pizza sales data to uncover key trends and performance m
 ⏰ Weekly Sales Trends
 🏆 Best & Worst Performing Pizzas
 
-3. Key Technologies Used
+3. Key Technologies
    
 Power BI Desktop – For data visualization and dashboard design
+
 Power Query – For data cleaning and transformation
+
 DAX (Data Analysis Expressions) – For creating KPIs and calculated measures
+
 Data Modeling – Star schema design with clear relationships and hierarchies
+
 Excel (.xlsx) – Dataset format from Kaggle
 
 4. Features & Highlights
