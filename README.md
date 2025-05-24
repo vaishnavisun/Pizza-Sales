@@ -1,4 +1,4 @@
-1. project Title
+1. Project Title
    
 🍕 Pizza Sales Report 
 A visually engaging and data-driven Pizza Sales Report created using Power BI Desktop. This project provides comprehensive insights into pizza sales performance with well-structured KPIs and interactive visualizations, making it ideal for business stakeholders and data enthusiasts.
